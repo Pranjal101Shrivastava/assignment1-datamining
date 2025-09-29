@@ -4,6 +4,9 @@ Mastering Sentiment Analysis with CRISP-DM: An End-to-End Walkthrough on IMDB Re
 
 By Pranjal Shrivastava
 
+https://medium.com/@pranjal.shrivastava_9505/mastering-sentiment-analysis-with-crisp-dm-an-end-to-end-walkthrough-on-imdb-reviews-512b09021bf0  
+medium article link 
+
 Introduction
 
 Explanation
